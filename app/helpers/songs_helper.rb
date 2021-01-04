@@ -24,6 +24,6 @@ module SongsHelper
       song.artist.name
     end
   end
-  
+
 
 end
